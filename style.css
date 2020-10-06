@@ -47,3 +47,8 @@ p {
   height:100%;
   text-align: center;
 }
+
+.white {
+  color: white;
+  border: 2px solid white;
+}
