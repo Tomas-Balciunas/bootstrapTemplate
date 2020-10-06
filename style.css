@@ -16,8 +16,8 @@ h6 {
   font-weight: bold;
 }
 
-#pen {
-  color: white;
+.pen {
+  filter: brightness(500%);
   margin-left: -8px;
   margin-right: -8px;
 }
