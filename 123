@@ -1,0 +1,20 @@
+<div class="container">
+        <div class="row justify-content-center">
+          <div class="d-block col-1 six">
+            <img src="https://cdn.glitch.com/bd4326cc-185c-4bbe-bec9-d9670cfc1e56%2FPenta.png?v=1601970539330">
+        </div>
+          
+          <div class="row justify-content-start align-self-center">
+            <div class="col">
+              <p class="pen3">
+                &lt;<img
+                  src="https://cdn.glitch.com/bd4326cc-185c-4bbe-bec9-d9670cfc1e56%2Fpen.png?v=1601964251948"
+                  class="pen2"
+                />&gt;
+              </p>
+              <br />
+              <b>Arrow</b>
+            </div>
+          </div>
+        </div>
+      </div>
