@@ -27,8 +27,18 @@ h6 {
   margin-right: -8px;
 }
 
-h5 {
+p {
   font-size: 1.4em;
   font-weight: bold;
+  margin-bottom: -0.7em;
 }
 
+.sesi {
+  margin;
+  position: relative;
+}
+
+.middle {
+  position: absolute;
+  margin: auto;
+}
