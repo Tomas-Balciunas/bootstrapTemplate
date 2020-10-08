@@ -78,3 +78,7 @@ h6 {
 .mbn-08 {
   margin-bottom: -0.8em;
 }
+
+#mouse {
+  filter: invert(100%);
+}
