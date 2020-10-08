@@ -138,7 +138,11 @@ h3 {
 
 .plus {
     left: 50%;
-    top: 50%;
+    top: 40%;
     position: absolute;
      transform: translate(-50%,-50%);
+}
+
+.plusimg {
+  width: 30%;
 }
