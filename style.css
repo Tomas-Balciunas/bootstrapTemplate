@@ -1,4 +1,6 @@
-
+html {
+  scroll-behavior: smooth;
+}
 
 header {
   background: url("https://cdn.glitch.com/bd4326cc-185c-4bbe-bec9-d9670cfc1e56%2Fhero-01.png?v=1601964252174");
@@ -61,6 +63,9 @@ h6 {
 
 .white {
   color: white;
+}
+
+.borderwhite {
   border: 2px solid white;
 }
 
