@@ -1,3 +1,5 @@
+
+
 header {
   background: url("https://cdn.glitch.com/bd4326cc-185c-4bbe-bec9-d9670cfc1e56%2Fhero-01.png?v=1601964252174");
   background-repeat: no-repeat;
@@ -35,6 +37,8 @@ p {
 
 .six {
   position: relative;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .pen3 {
