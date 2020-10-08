@@ -90,13 +90,17 @@ h6 {
 }
 
 h3 {
-  margin-top: 1.5em;
+  margin-top: 2em;
   font-size: 1.5em;
   font-weight: bold;
 }
 
 .h3b {
   color: #2b8ac2;
+}
+
+.h3w {
+  color: white;
 }
 
 .services {
@@ -119,6 +123,6 @@ h3 {
 }
 
 .portbg {
-  background: url(https://cdn.glitch.com/bd4326cc-185c-4bbe-bec9-d9670cfc1e56%2Fhero-02.png?v=1602148097700);
+  background: url(https://cdn.glitch.com/bd4326cc-185c-4bbe-bec9-d9670cfc1e56%2Fportbg.png?v=1602148853162);
   background-size: cover;
 }
