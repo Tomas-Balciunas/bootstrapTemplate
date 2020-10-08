@@ -101,4 +101,10 @@ h3 {
 
 .services {
   width: 10em;
+  color: gray;
+}
+
+.services > img {
+  filter: invert(50%);
+  width: 40%;
 }
