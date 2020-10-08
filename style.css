@@ -128,5 +128,10 @@ h3 {
 }
 
 .port > div > img {
-  width: 55%;
+  width: 20em;
 }
+
+.p2 {
+  position: relative;
+}
+
