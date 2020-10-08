@@ -84,7 +84,7 @@ h6 {
   filter: invert(100%);
 }
 
-.servicesbg {
+.whitebg {
   background: url(https://cdn.glitch.com/bd4326cc-185c-4bbe-bec9-d9670cfc1e56%2FLayer%202.png?v=1602142928451);
   background-size: cover;
 }
@@ -138,11 +138,11 @@ h3 {
 
 .plus {
     left: 50%;
-    top: 40%;
+    top: 45%;
     position: absolute;
-     transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
 }
 
 .plusimg {
-  width: 30%;
+  width: 15%;
 }
