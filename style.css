@@ -35,10 +35,18 @@ p {
   margin-bottom: -0.7em;
 }
 
+.cont {
+  position: relative;
+  
+
+}
+
 .six {
   position: relative;
-  left: 50%;
-  transform: translateX(-50%);
+  height: 100%;
+  width: 100em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .pen3 {
