@@ -133,5 +133,13 @@ h3 {
 
 .p2 {
   position: relative;
+  display: block;
 }
 
+.plus {
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    margin-top: -25%;
+    margin-left: -25%;
+}
