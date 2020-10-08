@@ -126,3 +126,7 @@ h3 {
   background: url(https://cdn.glitch.com/bd4326cc-185c-4bbe-bec9-d9670cfc1e56%2Fportbg.png?v=1602148853162);
   background-size: cover;
 }
+
+.port > div > img {
+  width: 55%;
+}
