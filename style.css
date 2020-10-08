@@ -2,7 +2,7 @@ html {
   scroll-behavior: smooth;
 }
 
-header {
+.header {
   background: url("https://cdn.glitch.com/bd4326cc-185c-4bbe-bec9-d9670cfc1e56%2Fhero-01.png?v=1601964252174");
   background-repeat: no-repeat;
   background-size: cover;
@@ -140,6 +140,5 @@ h3 {
     left: 50%;
     top: 50%;
     position: absolute;
-    margin-top: -25%;
-    margin-left: -25%;
+     transform: translate(-50%,-50%);
 }
