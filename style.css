@@ -14,7 +14,7 @@ header {
 
 h6 {
   color: white;
-  font-size: 1.4em;
+  font-size: 2em;
   font-weight: bold;
 }
 
@@ -29,22 +29,20 @@ h6 {
   margin-right: -8px;
 }
 
-p {
-  font-size: 1.4em;
+.arrow {
+  font-size: 2em;
   font-weight: bold;
   margin-bottom: -0.7em;
 }
 
 .cont {
   position: relative;
-  
-
 }
 
 .six {
   position: relative;
   height: 100%;
-  width: 100em;
+  width: 6.5em;
   margin-left: auto;
   margin-right: auto;
 }
@@ -58,6 +56,7 @@ p {
   right:0;
   height:100%;
   text-align: center;
+  padding-top: 0.7em;
 }
 
 .white {
