@@ -100,8 +100,10 @@ h3 {
 }
 
 .services {
-  width: 12em;
-  margin: 7em;
+  width: 200px;
+  margin-left: 7em;
+  margin-right: 7em;
+  margin-bottom: 1em;
   color: gray;
 }
 
