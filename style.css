@@ -100,11 +100,17 @@ h3 {
 }
 
 .services {
-  width: 10em;
+  width: 12em;
   color: gray;
 }
 
 .services > img {
   filter: invert(50%);
-  width: 40%;
+  width: 30%;
+  margin-bottom: 0.5em;
+}
+
+.services > p {
+  margin-top: 1em;
+  font-size: 0.8em;
 }
