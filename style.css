@@ -178,3 +178,18 @@ h3 {
   font-size: 0.8em;
   color: white;
 }
+
+.atlas {
+  position: relative;
+}
+
+.usa {
+  position: absolute;
+  top: 40%;
+  left: 20%;
+    
+}
+
+.marker {
+  width: 2em;
+}
