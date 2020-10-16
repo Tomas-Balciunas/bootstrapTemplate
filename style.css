@@ -151,9 +151,21 @@ h3 {
 .teamsimg {
   width: 15em;
   margin: 3em 1em -0.9em 1em;
+  border-radius: 0.2em;
+}
+
+.teamsocials1 {
+  position: relative;
+}
+
+.teamsocials2 {
+  position: absolute;
+  left: 14.5%;
+  top: 35%;
 }
 
 .teamnames {
   font-size: 1em;
   margin-bottom: -0.5em;
 }
+
