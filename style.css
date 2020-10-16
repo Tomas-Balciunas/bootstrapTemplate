@@ -181,13 +181,25 @@ h3 {
 
 .atlas {
   position: relative;
+  margin-top: 3em;
 }
 
 .usa {
   position: absolute;
-  top: 31%;
+  top: 36.5%;
   left: 20%;
-    
+}
+
+.france {
+  position: absolute;
+  top: 27.5%;
+  left: 46%;
+}
+
+.egypt {
+  position: absolute;
+  top: 41%;
+  left: 52%;
 }
 
 .marker {
@@ -198,5 +210,5 @@ h4 {
   float: right;
   font-size: 0.8em;
   font-weight: bold;
-  padding-top: 0.5em;
+  padding-top: 0.6em;
 }
