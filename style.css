@@ -169,3 +169,7 @@ h3 {
   margin-bottom: -0.5em;
 }
 
+.officesbg {
+  background: url(https://cdn.glitch.com/bd4326cc-185c-4bbe-bec9-d9670cfc1e56%2Fbg3.png?v=1602859709977);
+  background-size: cover;
+}
