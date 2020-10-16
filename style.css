@@ -149,5 +149,11 @@ h3 {
 }
 
 .teamsimg {
-  height: 10em;
+  height: 15em;
+  margin-bottom: -0.5em;
+}
+
+.teamnames {
+  font-size: 1em;
+  margin-bottom: -0.5em;
 }
