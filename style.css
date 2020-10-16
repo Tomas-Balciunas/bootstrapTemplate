@@ -193,3 +193,8 @@ h3 {
 .marker {
   width: 2em;
 }
+
+h4 {
+  float: right;
+  font-size: 0.8em;
+}
