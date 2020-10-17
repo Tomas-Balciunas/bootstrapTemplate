@@ -98,14 +98,14 @@ h6 {
 
 .h3b::after {
   background-color: #2b8ac2;
-  bottom: 0;
+  bottom: -5%;
   content: '';
   display: block;
-  height: 1px;
+  height: 0.15em;
   left: 50%;
   position: absolute;
   transform: translate(-50%, 0);
-  width: 50px;
+  width: 1.2em;
 }
 
 .h3w {
@@ -116,15 +116,15 @@ h6 {
 }
 
 .h3w::after {
-  background-color: #2b8ac2;
-  bottom: 0;
+  background-color: white;
+  bottom: -5%;
   content: '';
   display: block;
-  height: 1px;
+  height: 0.15em;
   left: 50%;
   position: absolute;
   transform: translate(-50%, 0);
-  width: 50px;
+  width: 1.2em;
 }
 
 .graysmall {
@@ -178,6 +178,13 @@ h6 {
   border-radius: 0.2em;
 }
 
+h5 {
+  margin-top: 2em;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #2b8ac2;
+}
+
 .teamsocials1 {
   position: relative;
 }
@@ -200,6 +207,7 @@ h6 {
 
 .officesfont {
   font-size: 0.7em;
+  margin-top
   color: white;
 }
 
