@@ -207,7 +207,7 @@ h5 {
 
 .officesfont {
   font-size: 0.7em;
-  margin-top
+  margin-top: 1em;
   color: white;
 }
 
@@ -251,6 +251,7 @@ h4 {
   margin-left: 1em;
   border-bottom: 1px solid #2b8ac2;
   padding-bottom: 0.7em;
+  margin-bottom: 0.5em;
 }
 
 .clients {
