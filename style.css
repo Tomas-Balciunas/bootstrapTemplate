@@ -249,26 +249,8 @@ h4 {
   width: 70%;
   margin-right: 5%;
   margin-left: 5%;
-  border-bottom: 1px solid #2b8ac2;
   padding-bottom: 0.7em;
   margin-bottom: 0.5em;
-}
-
-.clientsimg::after {
-  background-color: #2b8ac2;
-  bottom: -5%;
-  content: '';
-  display: block;
-  height: 0.15em;
-  left: 50%;
-  position: absolute;
-  transform: translate(-50%, 0);
-  width: 1.2em;
-  
-}
-
-.clients {
-  
 }
 
 .arrows {
@@ -277,7 +259,7 @@ h4 {
 
 .clientstext {
   width: 40%;
-  max-width: 30em;
+  max-width: 35em;
   color: gray;
   font-size: 0.9em;
 }
