@@ -89,18 +89,42 @@ h6 {
   background-size: cover;
 }
 
-h3 {
+.h3b {
   margin-top: 2em;
   font-size: 1.5em;
   font-weight: bold;
-}
-
-.h3b {
   color: #2b8ac2;
 }
 
+.h3b::after {
+  background-color: #2b8ac2;
+  bottom: 0;
+  content: '';
+  display: block;
+  height: 1px;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, 0);
+  width: 50px;
+}
+
 .h3w {
+  margin-top: 2em;
+  font-size: 1.5em;
+  font-weight: bold;
   color: white;
+}
+
+.h3w::after {
+  background-color: #2b8ac2;
+  bottom: 0;
+  content: '';
+  display: block;
+  height: 1px;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, 0);
+  width: 50px;
 }
 
 .graysmall {
@@ -218,6 +242,7 @@ h4 {
   margin-right: 1em;
   margin-left: 1em;
   border-bottom: 1px solid #2b8ac2;
+  padding-bottom: 0.7em;
 }
 
 .clients {
