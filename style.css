@@ -261,3 +261,8 @@ h4 {
 .arrows {
   width: 40%;
 }
+
+.clientstext {
+  width: 50%;
+  max-width: 30em;
+}
