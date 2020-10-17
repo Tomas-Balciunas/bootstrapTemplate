@@ -263,6 +263,8 @@ h4 {
 }
 
 .clientstext {
-  width: 50%;
+  width: 40%;
   max-width: 30em;
+  color: gray;
+  font-size: 0.9em;
 }
