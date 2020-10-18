@@ -252,7 +252,17 @@ h4 {
   padding-bottom: 0.7em;
   margin-bottom: 0.5em;
   border-bottom: 1px solid #2b8ac2;
+}
+
+.hoverdiv {
   position: relative;
+}
+
+.hoverarrow {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: translate(200%, 0);
 }
 
 .arrows {
