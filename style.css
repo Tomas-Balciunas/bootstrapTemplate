@@ -261,11 +261,15 @@ h4 {
 .hoverarrow {
   position: absolute;
   height: 25%;
-  top: 75%;
+  top: 76%;
   left: 50%;
   transform: translate(-50%, 0);
   opacity: 0;
   transition: 0.5s;
+}
+
+.valign {
+  padding-top: 0.1em;
 }
 
 .hoverdiv:hover .hoverarrow {
