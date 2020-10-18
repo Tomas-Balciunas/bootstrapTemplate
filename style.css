@@ -267,7 +267,7 @@ h4 {
   visibility: hidden;
 }
 
-.clientsimg + .hoverarrow::hover {
+.hoverdiv:hover + .hoverarrow:hover {
   opacity: 1;
   visibility: visible;
 }
