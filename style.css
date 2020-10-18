@@ -291,3 +291,7 @@ h4 {
   background: url(https://cdn.glitch.com/bd4326cc-185c-4bbe-bec9-d9670cfc1e56%2Fimageonline-co-overlayed-image.png?v=1603013729002);
   background-size: cover;
 }
+
+.contacticon {
+  width: 50%;
+}
