@@ -182,7 +182,7 @@ h5 {
   margin-top: 2em;
   font-size: 1.5em;
   font-weight: bold;
-  color: #2b8ac2;
+  ;
 }
 
 .teamsocials1 {
@@ -198,6 +198,7 @@ h5 {
 .teamnames {
   font-size: 1em;
   margin-bottom: -0.5em;
+  color: #2b8ac2;
 }
 
 .officesbg {
@@ -293,9 +294,17 @@ h4 {
 }
 
 .contacticon {
-  width: 50%;
+  width: 40%;
 }
 
 .contactdiv {
-  margin: 0, 2em, 1em, 2em
+  margin-bottom: 3em;
+  margin-left: 5em;
+  margin-right: 5em;
+}
+
+.contactnames {
+  font-size: 1em;
+  margin-bottom: -0.5em;
+  color: white;
 }
