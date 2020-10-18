@@ -250,7 +250,7 @@ h4 {
   margin-right: 5%;
   margin-left: 5%;
   padding-bottom: 0.7em;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.7em;
   border-bottom: 3px solid #2b8ac2;
 }
 
@@ -260,16 +260,15 @@ h4 {
 
 .hoverarrow {
   position: absolute;
-  top: 78.35%;
+  top: 74.5%;
   left: 50%;
   transform: translate(-50%, 0);
   opacity: 0;
-  visibility: hidden;
+  transition: 0.5s;
 }
 
-.hoverdiv:hover + .hoverarrow:hover {
+.hoverdiv:hover .hoverarrow {
   opacity: 1;
-  visibility: visible;
 }
 
 .arrows {
