@@ -251,7 +251,7 @@ h4 {
   margin-left: 5%;
   padding-bottom: 0.7em;
   margin-bottom: 0.7em;
-  border-bottom: 3px solid #2b8ac2;
+  border-bottom: 1px solid #2b8ac2;
 }
 
 .hoverdiv {
@@ -260,7 +260,8 @@ h4 {
 
 .hoverarrow {
   position: absolute;
-  top: 74.5%;
+  height: 25%;
+  top: 75%;
   left: 50%;
   transform: translate(-50%, 0);
   opacity: 0;
