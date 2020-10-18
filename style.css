@@ -295,3 +295,7 @@ h4 {
 .contacticon {
   width: 50%;
 }
+
+.contactdiv {
+  margin: 0, 2em, 1em, 2em
+}
