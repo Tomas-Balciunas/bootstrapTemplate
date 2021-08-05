@@ -3,7 +3,7 @@ html {
 }
 
 .header {
-  background: url("https://cdn.glitch.com/bd4326cc-185c-4bbe-bec9-d9670cfc1e56%2Fhero-01.png?v=1601964252174");
+  background: url("src/bg1.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position:center;
@@ -85,7 +85,7 @@ h6 {
 }
 
 .whitebg {
-  background: url(https://cdn.glitch.com/bd4326cc-185c-4bbe-bec9-d9670cfc1e56%2FLayer%202.png?v=1602142928451);
+  background: url('src/layer1.png');
   background-size: cover;
 }
 
@@ -148,7 +148,7 @@ h6 {
 }
 
 .portbg {
-  background: url(https://cdn.glitch.com/bd4326cc-185c-4bbe-bec9-d9670cfc1e56%2Fportbg.png?v=1602148853162);
+  background: url('src/bg2.png');
   background-size: cover;
 }
 
@@ -202,7 +202,7 @@ h5 {
 }
 
 .officesbg {
-  background: url(https://cdn.glitch.com/bd4326cc-185c-4bbe-bec9-d9670cfc1e56%2Fbg3.png?v=1602859709977);
+  background: url('src/bg3.png');
   background-size: cover;
 }
 
@@ -289,7 +289,7 @@ h4 {
 }
 
 .contactbg {
-  background: url(https://cdn.glitch.com/bd4326cc-185c-4bbe-bec9-d9670cfc1e56%2Fimageonline-co-overlayed-image.png?v=1603013729002);
+  background: url('src/bg4.png');
   background-size: cover;
 }
 
